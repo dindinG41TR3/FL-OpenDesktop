@@ -12,7 +12,7 @@
 # You should have received a copy of the GNU General Public License
 # along with this program.  If not, see <http://www.gnu.org/licenses/>
 
-package="linuxdarkiconthemes"
+package="winux10iconthemes"
 figlet $package
 
 echo " Mengcoloning Paket $package dari Github dindinG41TR3... "

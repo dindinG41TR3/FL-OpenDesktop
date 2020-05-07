@@ -14,8 +14,7 @@
 
 package="revoiconthemes"
 figlet $package
-mkdir $package
-cd $package
+
 echo " Mengcoloning Paket $package dari Github dindinG41TR3... "
 git clone git@github.com:dindinG41TR3/$package.git
 echo " Pindah Kelokasi $package dari Github dindinG41TR3... "
